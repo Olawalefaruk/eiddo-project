@@ -643,7 +643,7 @@
   } 
 
   .article-agent-image-div-3 {
-    background: url("./images/article-agent-image-3.png");
+    background: url("/images/article-agent-image-3.png");
     background-repeat: no-repeat;
     background-color: #0B0C0E;
     border-radius: 0.75rem;
