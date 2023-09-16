@@ -33,20 +33,17 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.75 1.12rem;
-
+  padding: 1.75rem 1.12rem;
 }
 
 .eiddo-logo {
   width: 6.75rem;
   height: 2rem;
-  flex-shrink: 0;
 }
 
 .menu-icon {
   width: 1.5rem;
   height: 1.5rem;
-  flex-shrink: 0;
 }
 
 .desktop-nav {
@@ -292,7 +289,7 @@ h2 {
 .main-card-image-7,
 .main-card-image-8,
 .main-card-image-9 {
-  background-image: url("/images/section-image-1.png");
+  background: url("/images/section-image-1.png");
   background-repeat: no-repeat;
   height: 16.375rem;
   width: 100%;
@@ -303,25 +300,25 @@ h2 {
   background-image: url("/images/section-image-2.png");
 }
 .main-card-image-3 {
-  background-image: url("/images/section-image-3.png");
+  background: url("/images/section-image-3.png");
 }
 .main-card-image-4 {
-  background-image: url("/images/section-image-4.png");
+  background: url("/images/section-image-4.png");
 }
 .main-card-image-5 {
-  background-image: url("/images/section-image-5.png");
+  background: url("/images/section-image-5.png");
 }
 .main-card-image-6 {
-  background-image: url("/images/section-image-6.png");
+  background: url("/images/section-image-6.png");
 }
 .main-card-image-7 {
-  background-image: url("/images/section-image-7.png");
+  background: url("/images/section-image-7.png");
 }
 .main-card-image-8 {
-  background-image: url("/images/section-image-8.png");
+  background: url("/images/section-image-8.png");
 }
 .main-card-image-9 {
-  background-image: url("/images/section-image-9.png");
+  background: url("/images/section-image-9.png");
 }
 
 .main-card-image img {
@@ -843,7 +840,7 @@ h4 {
   margin-bottom: 5rem;
   background-color: #D3F0FC;
 
-  background-image: url("/images/Ellipse\ 13.png"), url("/images/Ellipse\ 12.png"),linear-gradient(180deg, #ADE7FF 0%, #D3F0FC 100%), linear-gradient(180deg, #ADE7FF 0%, #D3F0FC 100%);
+  background: url("/images/Ellipse\ 13.png"), url("/images/Ellipse\ 12.png"),linear-gradient(180deg, #ADE7FF 0%, #D3F0FC 100%), linear-gradient(180deg, #ADE7FF 0%, #D3F0FC 100%);
   background-position: top left, bottom right;
   background-repeat: no-repeat;
 }
