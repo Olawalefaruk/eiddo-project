@@ -62,7 +62,7 @@
     border: 1px solid #383838;
     background-color: #FFF;
 
-    color: var(--Black, #0B0C0E);
+    color:#0B0C0E;
     font-size: 1rem;
     font-style: normal;
     font-weight: 600;
